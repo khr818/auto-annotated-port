@@ -107,7 +107,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: OUR OWN CLUBS✔️
     images:
       - type: ImageBlock
         url: /images/Screenshot 2024-09-22 175922.png
