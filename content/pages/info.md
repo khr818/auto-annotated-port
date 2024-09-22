@@ -421,7 +421,7 @@ sections:
           isRequired: true
           width: full
           type: EmailFormControl
-        - name: updatesConsent
+        - name: TAI
           label: TAI
           isRequired: false
           width: full
