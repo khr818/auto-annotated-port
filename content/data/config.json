@@ -65,7 +65,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "mailto: mhdpa.km.2@gmail.com",
                 "altText": ""
             },
             {
@@ -77,21 +77,21 @@
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "url": "https://github.com/khr818",
+                "altText": "KHR GIT"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
+            "phoneNumber": "+91 9788414242",
             "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
+            "email": "mhdpa.km.2@gmail.com",
             "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "address": "SHAANTHI SCHOOLS,JOTHINAGAR,POLLACHI-642001",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "Powered by [KHR](khrpersonal.netlify.app/)\n",
         "styles": {
             "self": {
                 "width": "narrow",
