@@ -13,11 +13,56 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      ## WELOCME TO TAI INFO PAGE HERE AS YOU CAN SEE WE ARE A GROUP HAS TWO
+      SEPARATIONS TAI/MHDPA(KM)<sup>2 </sup>HERE I AM THEIR FOUNDER KHR AND
+      THEIR OTHER ROLES ARE  [@TAI](https://www.stackbit.com/)
+
+
+      ### FROM TAI
+
+
+      SAI SUDARSAN S - CO - FOUNDER(TAI),DIRECTOR
+
+
+      SRIAKLESH M - CO FOUNDER(TAI),CEO
+
+
+      DAYA SANKARA B - CO FOUNDER(TAI),DIRECTOR
+
+
+      KHR - CHAIRMAN,FOUNDER(TAI,RACE,MHDPA(KM)<sup>2</sup>
+
+
+      ## FROM MHDPA(KM)<sup>2</sup>
+
+
+      K HARSHAN RAGHAV - SENIOR PRESIDENT
+
+
+      MUTHUKRISHNAN P - CHAIRMAN
+
+
+      ANUDANVIKA L - PRESIDENT
+
+
+      DHANUSHKASRI B - VICE-PRESIDENT
+
+
+      MITHUN PRABHU B - CHIEF MANAGER
+
+
+      KRITHVI R\*/ - DEPUTY MANAGER
+
+
+      KAYAL K\* - ASST. MANAGER
+
+
+      MAGILA\* - P.A. (KRITHVI)
+
+
+      PIRTHIUV M - EDITOR(PHOTOGRAPHER YT)
+
     styles:
       self:
         height: auto
