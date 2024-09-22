@@ -422,7 +422,7 @@ sections:
           width: full
           type: EmailFormControl
         - name: updatesConsent
-          label: Sign me up to recieve my words
+          label: TAI
           isRequired: false
           width: full
           type: CheckboxFormControl
