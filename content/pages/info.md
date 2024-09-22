@@ -120,7 +120,7 @@ sections:
       - type: ImageBlock
         url: /images/Absolute_Infinity.webp
         altText: TAI
-        caption: Logo three
+        caption: TAI
       - type: ImageBlock
         url: /images/Screenshot 2024-09-22 180316.png
         altText: Logo four
