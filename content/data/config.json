@@ -27,16 +27,16 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
+                "altText": "Youtube",
+                "label": "Youtube",
+                "url": "https://www.youtube.com/@MHDPAKM",
+                "icon": "youtube"
             },
             {
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/khr818",
                 "icon": "github"
             }
         ],
