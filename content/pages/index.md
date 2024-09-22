@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: HI WELCOME TO TAI-GROUPS TO PROCEED WITH CHOOSE FROM 2 MHDPA(KM)2/TAI
-    subtitle: This is my info—W
+    subtitle: "This is my info—We are developers from TAI-GROUPS We are so exited to announce you that we deployed our new website sstai.netlify.app/ see you in blogs \U0001F44B"
     styles:
       self:
         height: auto
