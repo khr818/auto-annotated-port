@@ -14,10 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: HI WELCOME TO TAI-GROUPS TO PROCEED WITH CHOOSE FROM 2 MHDPA(KM)2/TAI
-    subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+    subtitle: This is my info—W
     styles:
       self:
         height: auto
