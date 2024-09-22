@@ -13,15 +13,56 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+    text: >+
+      ## WELOCME TO TAI INFO PAGE HERE AS YOU CAN SEE WE ARE A GROUP HAS TWO
+      SEPARATIONS TAI/MHDPA(KM)<sup>2 </sup>HERE I AM THEIR FOUNDER KHR AND
+      THEIR OTHER ROLES ARE  [@TAI](https://www.stackbit.com/)
+
+
+      ### FROM TAI
+
+
+      SAI SUDARSAN S - CO - FOUNDER(TAI),DIRECTOR
+
+
+      SRIAKLESH M - CO FOUNDER(TAI),CEO
+
+
+      DAYA SANKARA B - CO FOUNDER(TAI),DIRECTOR
+
+
+      KHR - CHAIRMAN,FOUNDER(TAI,RACE,MHDPA(KM)<sup>2</sup>
+
+
+      ## FROM MHDPA(KM)<sup>2</sup>
+
+
+      K HARSHAN RAGHAV - SENIOR PRESIDENT
+
+
+      MUTHUKRISHNAN P - CHAIRMAN
+
+
+      ANUDANVIKA L - PRESIDENT
+
+
+      DHANUSHKASRI B - VICE-PRESIDENT
+
+
+      MITHUN PRABHU B - CHIEF MANAGER
+
+
+      KRITHVI R\*/ - DEPUTY MANAGER
+
+
+      KAYAL K\* - ASST. MANAGER
+
+
+      MAGILA\* - P.A. (KRITHVI)
+
+
+      PIRTHIUV M - EDITOR(PHOTOGRAPHER YT)
+
     styles:
       self:
         height: auto
@@ -46,6 +87,12 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
+    media:
+      type: ImageBlock
+      url: /images/Absolute_Infinity.webp
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
   - type: DividerSection
     styles:
       self:
@@ -60,26 +107,26 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: OUR OWN CLUBS✔️
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
+        url: /images/Screenshot 2024-09-22 175922.png
         altText: Logo one
         caption: Logo one
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/Screenshot 2024-09-22 180136.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
+        url: /images/Absolute_Infinity.webp
+        altText: TAI
+        caption: TAI
       - type: ImageBlock
-        url: /images/logo4.svg
+        url: /images/Screenshot 2024-09-22 180316.png
         altText: Logo four
         caption: Logo four
       - type: ImageBlock
-        url: /images/logo5.svg
+        url: /images/Screenshot 2024-09-22 180429.png
         altText: Logo five
         caption: Logo five
     spacing: 3
