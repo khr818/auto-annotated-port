@@ -13,12 +13,6 @@ sections:
       I'M JUST A SMALL GIRL AND I'M ACCOUNT MANEGER IN MHDPA WHICH MEANS I HAVE
       THE TOTAL CONTROL AMONG ACCOUNTS . 
     actions: []
-    media:
-      type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
-      caption: Caption of the image
-      elementId: ''
     colors: colors-f
     backgroundSize: full
     elementId: ''
