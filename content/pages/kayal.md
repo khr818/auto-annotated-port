@@ -39,7 +39,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2024-10-03 at 16.46.26_0348c781.jpg
-      altText: altText of the image
+      altText: KAYAL
       caption: Caption of the image
       elementId: ''
   - type: DividerSection
