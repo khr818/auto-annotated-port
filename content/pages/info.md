@@ -22,14 +22,14 @@ sections:
       ### FROM TAI
 
 
-      SAI SUDARSAN S - CO - FOUNDER(TAI),DIRECTOR | [@SSS](/SSS)
+      SAI SUDARSAN S - CO - FOUNDER(TAI),DIRECTOR | [@SSS](/sss)
 
 
       SRIAKLESH M - CO FOUNDER(TAI),CEO |
       [@SAM](khrpersonal.netlify.app/sriakilesh-my-best-friend)
 
 
-      SANJEEV SIDDHARTH - COACH (TAI),DIRECTOR | [@SST](/SST)
+      SANJEEV SIDDHARTH - COACH (TAI),DIRECTOR | [@SST](/sst)
 
 
       KHR - CHAIRMAN,FOUNDER(TAI,RACE,MHDPA(KM)<sup>2</sup> |
@@ -45,7 +45,7 @@ sections:
       MUTHUKRISHNAN P - CHAIRMAN
 
 
-      ANUDANVIKA L - PRESIDENT | [@AN](/AN)
+      ANUDANVIKA L - PRESIDENT | [@AN](/an)
 
 
       DHANUSHKASRI B - VICE-PRESIDENT | @DB
@@ -54,13 +54,13 @@ sections:
       MITHUN PRABHU B - CHIEF MANAGER | @BMP
 
 
-      KRITHVI R\*/ - DEPUTY MANAGER | [@KRITHVI](/KRITHVI)
+      KRITHVI R\*/ - DEPUTY MANAGER | [@KRITHVI](/krithvi)
 
 
       KAYAL K\* - ASST. MANAGER | [@KAYAL](/kayal)
 
 
-      MAGILA\* - P.A. (KRITHVI)
+      MAGILA\* - P.A. (KRITHVI) | [@MAGILA](/magila)
 
 
       PIRTHIUV M - EDITOR(PHOTOGRAPHER YT)
