@@ -19,7 +19,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/MAGILA.jpg
+      url: /images/KAYAL.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
