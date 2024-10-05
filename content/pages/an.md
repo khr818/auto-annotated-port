@@ -9,11 +9,7 @@ sections:
       all the hard work I've done in the past few years. Once you're impressed,
       you can continue to scroll down to see more details and credentials about
       me.
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: "\n\n\n\nMy name is\nAnudanvika.l IAM student of shaanthi school.\n\n\n\n\n\nIAM the\npresident\_of\_MNHDPA\_km2,I STUDY CLASS 05 THERE. Anyways I am the\npresident of MNHDPA and A means ANUDANVIKA\n\n\n\n\n\n\n\n"
     actions: []
     media:
       type: ImageBlock
