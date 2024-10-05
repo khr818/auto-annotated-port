@@ -17,7 +17,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/favicon.svg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
