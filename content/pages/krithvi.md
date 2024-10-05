@@ -9,11 +9,9 @@ sections:
       all the hard work I've done in the past few years. Once you're impressed,
       you can continue to scroll down to see more details and credentials about
       me.
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Yo ! This is DOC!!. Ya as you KNOW this is the naughtiest DM Of MNHDPA .
+      She is a very very obsessed  like NAOMI in CCCK. SHE COMANDS ALL
     actions: []
     media:
       type: ImageBlock
