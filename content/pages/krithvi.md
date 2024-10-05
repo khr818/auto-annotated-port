@@ -19,7 +19,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/KAYAL.jpg
+      url: /images/KRITHVI.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
