@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
+    text: >
       ## WELOCME TO TAI INFO PAGE HERE AS YOU CAN SEE WE ARE A GROUP HAS TWO
       SEPARATIONS TAI/MHDPA(KM)<sup>2 </sup>HERE I AM THEIR FOUNDER KHR AND
       THEIR OTHER ROLES ARE  [@TAI](https://www.stackbit.com/)
@@ -22,47 +22,48 @@ sections:
       ### FROM TAI
 
 
-      SAI SUDARSAN S - CO - FOUNDER(TAI),DIRECTOR
+      SAI SUDARSAN S - CO - FOUNDER(TAI),DIRECTOR | [@SSS](/SSS)
 
 
-      SRIAKLESH M - CO FOUNDER(TAI),CEO
+      SRIAKLESH M - CO FOUNDER(TAI),CEO |
+      [@SAM](khrpersonal.netlify.app/sriakilesh-my-best-friend)
 
 
-      DAYA SANKARA B - CO FOUNDER(TAI),DIRECTOR
+      SANJEEV SIDDHARTH - COACH (TAI),DIRECTOR | [@SST](/SST)
 
 
-      KHR - CHAIRMAN,FOUNDER(TAI,RACE,MHDPA(KM)<sup>2</sup>
+      KHR - CHAIRMAN,FOUNDER(TAI,RACE,MHDPA(KM)<sup>2</sup> |
+      [@KHR](khrpersonal.netlify.app/info)
 
 
       ## FROM MHDPA(KM)<sup>2</sup>
 
 
-      K HARSHAN RAGHAV - SENIOR PRESIDENT
+      K HARSHAN RAGHAV - SENIOR PRESIDENT | [@KHR](khrpersonal.netlify.app/info)
 
 
       MUTHUKRISHNAN P - CHAIRMAN
 
 
-      ANUDANVIKA L - PRESIDENT
+      ANUDANVIKA L - PRESIDENT | [@AN](/AN)
 
 
-      DHANUSHKASRI B - VICE-PRESIDENT
+      DHANUSHKASRI B - VICE-PRESIDENT | @DB
 
 
-      MITHUN PRABHU B - CHIEF MANAGER
+      MITHUN PRABHU B - CHIEF MANAGER | @BMP
 
 
-      KRITHVI R\*/ - DEPUTY MANAGER
+      KRITHVI R\*/ - DEPUTY MANAGER | [@KRITHVI](/KRITHVI)
 
 
-      KAYAL K\* - ASST. MANAGER
+      KAYAL K\* - ASST. MANAGER | [@KAYAL](/kayal)
 
 
       MAGILA\* - P.A. (KRITHVI)
 
 
       PIRTHIUV M - EDITOR(PHOTOGRAPHER YT)
-
     styles:
       self:
         height: auto
