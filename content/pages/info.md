@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >+
+    text: >
       ## WELOCME TO TAI INFO PAGE HERE AS YOU CAN SEE WE ARE A GROUP HAS TWO
       SEPARATIONS TAI/MHDPA(KM)<sup>2 </sup>HERE I AM THEIR FOUNDER KHR AND
       THEIR OTHER ROLES ARE  [@TAI](https://www.stackbit.com/)
@@ -55,14 +55,13 @@ sections:
       KRITHVI R\*/ - DEPUTY MANAGER
 
 
-      KAYAL K\* - ASST. MANAGER
+      KAYAL K\* - ASST. MANAGER | [@KAYAL](/kayal)
 
 
       MAGILA\* - P.A. (KRITHVI)
 
 
       PIRTHIUV M - EDITOR(PHOTOGRAPHER YT)
-
     styles:
       self:
         height: auto
