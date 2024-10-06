@@ -52,8 +52,7 @@ sections:
       - type: Link
         label: See all posts
         url: /blog
-    posts:
-      - content/pages/blog/post-six.md
+    posts: []
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
