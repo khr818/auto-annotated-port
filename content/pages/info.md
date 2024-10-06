@@ -32,8 +32,32 @@ sections:
       SANJEEV SIDDHARTH - COACH (TAI),DIRECTOR | [@SST](/sst)
 
 
-      KHR - CHAIRMAN,FOUNDER(TAI,RACE,MHDPA(KM)<sup>2</sup> |
+      KHR - CHAIRMAN,FOUNDER(TAI,RACE,MHDPA(KM)2 |
       [@KHR](khrpersonal.netlify.app/info)
+
+
+      OUR MEMBERS
+
+
+      M SARVESH | [@SM](/sarvesh)
+
+
+      JOHN PREM | @JP
+
+
+      NITHIN RAGUL | @ANR
+
+
+      RAHUL | @MSR
+
+
+      RAJASARAVANAN | @KING.SARAVANAN
+
+
+      SRI SANTHANU | @SSRD
+
+
+      SREEVANTH | @SJ
 
 
       ## FROM MHDPA(KM)<sup>2</sup>
