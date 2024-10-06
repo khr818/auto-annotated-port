@@ -52,7 +52,8 @@ sections:
       - type: Link
         label: See all posts
         url: /blog
-    posts: []
+    posts:
+      - content/pages/blog/post-one.md
     showDate: true
     showExcerpt: true
     showReadMoreLink: true
