@@ -3,7 +3,7 @@ type: PageLayout
 title: Info page
 sections:
   - type: HeroSection
-    title: HI THIS IS AN ADVENT
+    title: "HI THIS IS AN ADVENTUROUS SOUL , BTW HI I AM SARVESH \U0001F44B"
     subtitle: >-
       This is my info — I'm sharing it all this with ya'll to impress you with
       all the hard work I've done in the past few years. Once you're impressed,
