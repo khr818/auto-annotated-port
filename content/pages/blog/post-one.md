@@ -1,17 +1,16 @@
 ---
 type: PostLayout
-title: How I started a startup 🚀
+title: The Birth Of TAI
 colors: colors-a
 date: '2021-06-28'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image1.jpg
   altText: Post thumbnail image
 media:
-  url: /images/post-2.jpg
+  url: /images/Absolute_Infinity.webp
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
@@ -51,7 +50,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
@@ -109,19 +108,21 @@ bottomSections:
       text:
         textAlign: left
 ---
+It started as a dream, a spark of an idea that seemed too big to contain. I had always been passionate about technology, especially robotics, but there was something more I wanted to achieve—something beyond creating machines and writing code. It was about connection. What if there was a way to bring people together, to use technology not just for progress, but for unity?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+And so, TAI was born.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+The name itself, **Technology for All Initiatives**, came to represent the core of what we stood for: using the power of technology to break barriers, to bridge gaps between cultures, professions, and ways of life. Our mission was simple yet profound: **To Unite All**. In a world that often seems fragmented, TAI would be the force that reminds us we are all connected—through technology, through innovation, and through the simple desire to build something greater than ourselves.
 
-## About Coding
+But TAI wasn’t just an idea. It was a **vision**—one we called **The Great Building**. To some, it might sound abstract, but for me and the early team, it was clear. The Great Building symbolized a future where humanity worked together to build not just structures, but a shared understanding, a collective purpose. It was the embodiment of progress, but more importantly, it was the symbol of unity—a world where everyone, no matter their background or expertise, could contribute to something larger.
 
-> “Coding is the language of the future, and every girl should learn it. As I've learned from watching girls grow and learn in our classrooms, coding is fun, collaborative and creative.”
+Starting out wasn’t easy. There were challenges at every corner—finding like-minded individuals, securing resources, and, of course, explaining the vision to a world that often prioritized competition over collaboration. But I wasn’t alone. Slowly, the team grew—developers, engineers, thinkers, creators from different walks of life, all drawn to the same idea: that we could build something that would truly change the world.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+We started with small projects—developing tools that could empower communities, using robotics to solve real-world problems, and creating platforms where people could collaborate without barriers. But with each step forward, it became clear that TAI was more than just an organization. It was a movement, a shift in how we looked at technology’s role in the world. We weren’t just building machines or writing code anymore; we were laying the foundation for **The Great Building**, brick by brick.
 
-## Productivity
+Every robot we built, every platform we launched, every connection we made was a step toward our ultimate goal: a world united by the things we create together. The Great Building wasn’t just a metaphor—it was a reminder that the greatest things we can achieve are the ones we build with others.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+As TAI grows, the mission remains the same. **To Unite All.** And with each new challenge, with each new innovation, we move closer to **The Great Building**, a future where technology doesn’t just advance us—it brings us together. @TAI
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+
+
