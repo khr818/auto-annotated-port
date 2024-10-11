@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     title: >-
       I'm a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      impressive titles and
     subtitle: >-
       This is my info — I'm sharing it to you , I am Nidun Varshan This Is My
       INFO
