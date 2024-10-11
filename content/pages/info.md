@@ -69,6 +69,9 @@ sections:
       MUTHUKRISHNAN P - CHAIRMAN
 
 
+      NIDUN VARSHAN R - DEPT. CHAIRMAN | [@NV](/nv)
+
+
       ANUDANVIKA L - PRESIDENT | [@AN](/an)
 
 
