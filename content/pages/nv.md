@@ -7,10 +7,8 @@ sections:
       I'm a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
-      This is my info — I'm sharing it all this with ya'll to impress you with
-      all the hard work I've done in the past few years. Once you're impressed,
-      you can continue to scroll down to see more details and credentials about
-      me.
+      This is my info — I'm sharing it to you , I am Nidun Varshan This Is My
+      INFO
     text: >+
       Cricket isn’t just a game for me; it’s a passion that fuels my spirit and
       brings me joy. Whether I’m playing on the field or watching my favorite
