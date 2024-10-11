@@ -11,11 +11,30 @@ sections:
       all the hard work I've done in the past few years. Once you're impressed,
       you can continue to scroll down to see more details and credentials about
       me.
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Cricket isn’t just a game for me; it’s a passion that fuels my spirit and
+      brings me joy. Whether I’m playing on the field or watching my favorite
+      teams battle it out, the thrill of the sport captivates me. My love for
+      cricket drives me to improve my skills and share the excitement with
+      others.
+
+
+      When I'm not playing, I find fulfillment in helping those around me. My
+      supportive nature compels me to lend a hand, whether it’s coaching younger
+      players, organizing local matches, or simply being there for friends in
+      need. This blend of passion for cricket and a desire to uplift others
+      defines who I am.
+
+
+
+
+
+
+
+
+
+
+
     actions: []
     media:
       type: ImageBlock
