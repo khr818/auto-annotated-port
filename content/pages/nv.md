@@ -19,7 +19,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/WhatsApp Image 2024-10-11 at 12.35.27_36f30959.jpg
       altText: Hero image
       caption: Caption of the image
       elementId: ''
