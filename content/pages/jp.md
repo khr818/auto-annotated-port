@@ -19,7 +19,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/m5.png
       altText: Hero image
       caption: Caption of the image
       elementId: ''
